@@ -1,1 +1,1 @@
-This is the chapter1 of Story 2.
+This is the chapter1 of Story 2 that is branched.
